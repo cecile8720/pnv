@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Cherry</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Kitchen" sketch:type="MSLayerGroup" transform="translate(-607.000000, -838.000000)" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Cherry" transform="translate(610.000000, 851.000000)" sketch:type="MSShapeGroup">
+                <circle id="Oval-709" cx="18" cy="32" r="11"></circle>
+                <path d="M25,32 C25,28.1340068 21.8659932,25 18,25" id="Oval-710"></path>
+                <path d="M49,25 C49,21.1340068 45.8659932,18 42,18" id="Oval-711"></path>
+                <circle id="Oval-709" cx="42" cy="25" r="11"></circle>
+                <path d="M20.1688939,20.5967372 C20.1688939,20.5967372 25.3285834,5.76357755 17.4208192,2.11782125 C9.5130551,-1.52793506 35.1567982,0.7942293 35.9085947,15.537216" id="Path-1607"></path>
+                <path d="M5.44993813,15.1252464 C5.44993813,15.1252464 8.64182023,9.13857613 14.926989,7.64791951 C21.2121578,6.15726288 22.3546427,9.98331411 22.3546427,9.98331411 C22.3546427,9.98331411 18.3958365,16.2383783 10.7619636,16.2383784 C3.12809074,16.2383786 1.23322491,14.8907481 1.23322491,14.8907481" id="Path-1610" transform="translate(11.793934, 11.770775) rotate(-213.000000) translate(-11.793934, -11.770775) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
